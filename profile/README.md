@@ -1,0 +1,20 @@
+# tabularis.AI
+
+## Introduction
+**tabularis.AI** offers state-of-the-art artificial data solutions powered by generative AI, allowing secure use, sharing, and AI model training with sensitive data. Our technology ensures over 99% data accuracy, more than 50% time savings, and full GDPR & CCPA compliance.
+
+## Why We're Cool
+- 🔓 **Unlock Sensitive Data:** Gain insights from data without privacy risks.
+- 💡 **Improve Data Quality:** Quickly and cost-effectively modify datasets.
+- 🔒 **Maintain Privacy:** Simulate real data characteristics with synthetic data while using 0% actual sensitive data.
+- 🌍 **Versatile Applications:** Banking, Healthcare, Retail, Research, Telecommunication, Utilities, Government.
+
+## 🌟 Pilot Program 🌟 
+Join our exclusive pilot program to experience the next generation of artificial data. Secure your spot today and transform your data handling.
+
+## Open Source
+Here we will publish our work in open source, providing the community with tools to leverage synthetic data securely.
+
+## Contact Us
+- **Website:** [tabularis.ai](https://tabularis.ai)
+- **Email:** info@tabularis.ai
