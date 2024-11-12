@@ -9,9 +9,6 @@
 - 🔒 **Maintain Privacy:** Simulate real data characteristics with synthetic data while using 0% actual sensitive data.
 - 🌍 **Versatile Applications:** Banking, Healthcare, Retail, Research, Telecommunication, Utilities, Government.
 
-## 🌟 Pilot Program 🌟 
-Join our exclusive pilot program to experience the next generation of artificial data. Secure your spot today and transform your data handling.
-
 ## Open Source
 Here we will publish our work in open source, providing the community with tools to leverage synthetic data securely.
 
