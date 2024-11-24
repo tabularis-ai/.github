@@ -15,3 +15,7 @@ Here we will publish our work in open source, providing the community with tools
 ## Contact Us
 - **Website:** [tabularis.ai](https://tabularis.ai)
 - **Email:** info@tabularis.ai
+
+## Join Our Discord Community!
+
+[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Now-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/JKpXdjUD)
