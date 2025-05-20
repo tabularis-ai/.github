@@ -1,4 +1,4 @@
-# Tabularis.AI: Smart AI for Your Data ⚡
+# Tabularis.AI: We Make Effient AI Models ⚡
 TL;DR: We build practical, privacy-focused AI solutions that run efficiently, even on edge devices. Think synthetic data, and smart dataflows for text and tables.
 
 
