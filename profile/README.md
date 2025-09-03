@@ -6,7 +6,7 @@ TL;DR: We build practical, privacy-focused AI solutions that run efficiently, ev
 
 - **Specialized AI Models**: 🤫 We create lightweight, privacy-focused AI models that run efficiently, even on edge devices.
 
-- **Synthetic Data Generation**: 🪄 Need realistic data for training, testing, or sharing? We generate high-quality synthetic datasets using models like Mistral, OpenAI, LLaMa, and Anthropic.
+- **Synthetic Data Generation**: 🪄 Need realistic data for training, testing, or sharing? Text, tabular, or images? We generate high-quality synthetic datasets using models like Mistral, OpenAI, LLaMa, and Anthropic.
 
 - **Automated Dataflows**: 🤖 We build intelligent dataflows using AI Agents and RAG (Retrieval-Augmented Generation) to connect your text and structured data.
 
